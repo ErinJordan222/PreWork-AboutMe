@@ -1,0 +1,33 @@
+body {
+    background-color: #f1f1e3;
+    color: #222222;
+    font-size: 1em;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+    text-align: center;
+
+    }
+
+.aboutme {
+    color: #222222;
+    font-size: 1em;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+    text-align: left;
+
+}
+
+.facts {
+    color: #222222;
+    font-size: 1em;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+    text-align: left;
+ 
+}
+
+.education {
+
+    color: #222222;
+    font-size: 1em;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+    text-align: left;
+
+}
